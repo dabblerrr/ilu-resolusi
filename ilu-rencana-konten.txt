@@ -1,0 +1,5 @@
+Rencana Konten ILU
+- python
+- machine learning
+- autonomous vehicle
+- mysql
