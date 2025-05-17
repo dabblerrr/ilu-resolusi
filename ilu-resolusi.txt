@@ -1,0 +1,7 @@
+ILU RESOLUSI
+- Konsisten untuk belajar Python 
+- Membuat platform aplikasi full python
+- Konsisten Belajar Machine learning
+- Bisa buat Program dengan Python tanpa lihat lagi google/ai, atau kalo lihat ai tu ngerti salah programnya dimana
+- Bisa operasiin Github sampe lancar
+- Belajar matlab (buat simulasi)
