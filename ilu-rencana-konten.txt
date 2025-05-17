@@ -2,8 +2,8 @@ Rencana Konten ILU
 - python
   * paham sampe gk lihat google ataupun chat ai
   * bisa buat aplikasi tanpa lihat google atau chat ai
-    ^flask
+    ^ djago/flask
 - buat aplikasi yg terintegrasi ML
 - machine learning
-  ^scikit-learn
+  ^ Scikit-learn/keras
 - autonomous vehicle
