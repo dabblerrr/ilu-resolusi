@@ -2,7 +2,10 @@ Rencana Konten ILU
 - python
   * paham sampe gk lihat google ataupun chat ai
   * bisa buat aplikasi tanpa lihat google atau chat ai
+    ^ djago/flask
+    ^ odoo
 - buat aplikasi yg terintegrasi ML
 - machine learning
+  ^ Scikit-learn/keras
 - autonomous vehicle
 - mysql
