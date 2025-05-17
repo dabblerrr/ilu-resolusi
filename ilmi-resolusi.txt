@@ -1,0 +1,11 @@
+Halo pak perkenalkan saya ilmi, dari Artartika
+
+Resolusi saya
+- Membuat website dengan python
+- Belajar KSC
+  * regresi
+  * classifikasi
+  * Svm
+  * convolutional neural network
+- Bekerja di perusahaan start-up
+- belajar Machine Learning
