@@ -7,3 +7,9 @@ Rencana Konten ILU
 - machine learning
   ^ Scikit-learn/keras
 - autonomous vehicle
+- Belajar KSC
+  * regresi
+  * classifikasi
+  * Svm
+  * convolutional neural network
+  * ANN
