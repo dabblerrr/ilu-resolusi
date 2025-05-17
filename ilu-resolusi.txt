@@ -5,4 +5,4 @@ ILU RESOLUSI
 - Bisa buat Program dengan Python tanpa lihat lagi google/ai, atau kalo lihat ai tu ngerti salah programnya dimana
 - Bisa operasiin Github sampe lancar
 - Belajar matlab (buat simulasi)
-- Buat aplikasi yang terintegrasi dengna machine learning
+- Membuat aplikasi di android
