@@ -1,0 +1,7 @@
+Rencana Konten ILU
+- python
+  * paham sampe gk lihat google ataupun chat ai
+  * bisa buat aplikasi tanpa lihat google atau chat ai
+- machine learning
+- autonomous vehicle
+- mysql
